@@ -1,0 +1,19 @@
+*{
+    background-color: greenyellow;
+    @media screen and(max-width:769px) {
+        .html{
+            display: block;
+        }
+
+    }
+}
+
+.css{
+    padding: 15px;
+    margin-bottom: 50px;
+}
+
+.end h2{
+    text-align: center;
+    color: blue;
+}
